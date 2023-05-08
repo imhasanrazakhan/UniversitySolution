@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="ItemAvailability\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Metrics\" />
+    <Folder Include="RequestValidators\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+</Project>
